@@ -1,5 +1,7 @@
 # <KHU_2022_spring_KaggleCompetition>
 
+## 안녕하세요 저희는 competition에서 99%의 accuracy로 7위를 차지한 Team7입니다.
+
 ## 중요한 Hyperparameter는 다음과 같습니다.
 ### model : EfficientNet_b0
 ### Optimizer : RAdam
